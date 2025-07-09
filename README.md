@@ -24,7 +24,7 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=mhudas.mhudas&"  />
 </div>
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z51HRMUU)
+
 ###
 
 <h1 align="center">👋 Hi there! Welcome to my GitHub profile</h1>
