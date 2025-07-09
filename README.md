@@ -14,6 +14,9 @@
   <a href="https://discord.com/users/hudmeh" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
+  <a href="https://ko-fi.com/hudmeh" target="_blank">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" height="25" alt="ko-fi logo"  />
+  </a>
 </div>
 
 ###
@@ -21,7 +24,7 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=mhudas.mhudas&"  />
 </div>
-
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z51HRMUU)
 ###
 
 <h1 align="center">👋 Hi there! Welcome to my GitHub profile</h1>
