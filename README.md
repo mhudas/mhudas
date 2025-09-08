@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I'm Miftahul Huda, a first-year Information Systems student at Universitas Brawijaya 🎓.  <br>Currently exploring the world of tech, especially programming, systems development, and anything digital!<br><br><br>- 🎓 Freshman majoring in Information Systems at Universitas Brawijaya (Class of 2025)  <br>- 💻 Interested in technology, coding, and data  <br>- 🚀 Currently learning: HTML, CSS, JavaScript, and Python  <br>- 🌱 Focused on building strong foundations in programming and web development  <br>- 📚 Aspiring to become a software engineer or system analyst someday :)</p>
+<p align="left">I'm Miftahul Huda, a first-year Information Systems student at Universitas Brawijaya 🎓.  <br>Currently exploring the world of tech, especially programming, systems development, and anything digital!<br><br><br>- 🎓 Freshman majoring in Information Systems at Universitas Brawijaya (Class of 2025)  <br>- 💻 Interested in technology, coding, and data  <br>- 🚀 Currently learning: Java, Javascript, and Python  <br>- 🌱 Focused on building strong foundations in programming and web development  <br>- 📚 Aspiring to become a software engineer or system analyst someday :)</p>
 
 ###
 
